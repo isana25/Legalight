@@ -47,20 +47,11 @@ This AI-powered assistant makes legal language understandable for everyone, from
 
 ---
 
-## ❗ **Why This Problem Matters**
-In the real world, most people accept legal terms without reading them — whether it's for using a new app, signing a rental agreement, or entering a service contract. The language is often overwhelming, time-consuming, and intentionally confusing. As a result, users unknowingly agree to:
+## 🛠️ **Technologies Used**
 
-- Unwanted auto-renewals
-- Restrictive refund or cancellation policies
-- Loss of rights or data privacy
+- **Python Libraries:** LangChain, Chroma, OpenAI, PyPDF2, and more.
+- **Generative AI:** Google Gemini API for document understanding and summarization.
+- **RAG (Retrieval-Augmented Generation):** For improving context-aware responses.
 
-**Legalight** empowers users to take control, understand what they agree to, and make informed decisions — instantly and interactively.
 
----
-
-## 🌟 **Benefits to Users**
-- ⏱️ Save time by skipping lengthy reading.
-- 🛡️ Avoid risky legal commitments or hidden fees.
-- 🤝 Improve trust in digital agreements.
-- 📚 Enhance awareness of rights and obligations.
 
